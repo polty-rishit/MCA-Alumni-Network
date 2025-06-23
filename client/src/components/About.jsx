@@ -11,7 +11,7 @@ import {
   FaYoutube,
 } from "react-icons/fa";
 
-// About Us Component
+// About Us Components
 const AboutUs = () => {
   const navigate = useNavigate();
 
